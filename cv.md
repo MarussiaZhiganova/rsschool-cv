@@ -40,3 +40,4 @@
  ***
  - Russian - Native
  - English - Elementary
+ - Polish - Elementary
